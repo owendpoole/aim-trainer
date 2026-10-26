@@ -1,6 +1,6 @@
 # Aim Trainer
 
-Aim Trainer is a web based game designed to help users improve their aim and reaction time for fast-paced games. It is built with HTML, CSS, and JavaScript, and is server with Node.js using Express and EJS for templatization. All game data is stored in a JSON file on the backend.
+Aim Trainer is a web based game designed to help users improve their aim and reaction time for fast-paced games. It is built with HTML, CSS, and JavaScript, and is server with Node.js using Express and EJS for templatization. All game data is stored in a JSON file on the backend, and updated live to support accurate leaderboards.
 
 ## Configuration
 
